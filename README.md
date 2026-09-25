@@ -75,3 +75,5 @@ The model used Friday's average share from 2024 and 2025 (22.2% and 20.5% of the
 | [`attendance_indexed.csv`](attendance_indexed.csv) | The indexed data, readable directly on GitHub. |
 
 **Built with:** Excel (SUMIFS, AVERAGE and charts). The original analysis also used PivotTables. This published copy was rebuilt with indexed values, so the real counts aren't kept inside the file.
+
+README and indexed workbook prepared with help from Claude. The analysis, models and forecast are my own.
